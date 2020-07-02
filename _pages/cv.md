@@ -11,49 +11,40 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Diploma in Information Technology, Universidad ORT Uruguay, 2017-2019
+* B.S. in Computer Science, Universidad ORT Uruguay, 2020-2025 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2017: Data Analysis Intern
+  * Plan Ceibal
+  * Duties included: Cleaning data, building data manipulation scripts, working with MySQL relational databases and Java Spring APIs.
+  * Supervisor: Elvira Brusa (Director of the Data Department)
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
+* Summer 2018: Data Analysis Intern
+  * Plan Ceibal
+  * Duties included: Retrieve crucial data for statistical reports. Implement MD5 and AES as security required.
+  * Supervisor: Elvira Brusa (Director of the Data Department)
+
+* Feb 2020 - Apr 2020
+  * Talon Outdoor
+  * Duties included: Develop REST APIs, translate UI mockups into functioning interfaces, communicate with clients and developers in English.
+  * Supervisor: Anant East (Director of Engineering)
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* REST API development
+  * Java Spring
+  * .NET Core
+  * .NET Framework
+* Frontend development
+  * Angular
+  * Material
+  * Bootstrap
+* Learning
 
-Publications
+Awards
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Won Google Code-in 2016 for my contributions to the opensource organization OpenMRS.
+* [Outstanding Student of Uruguay due to international achievements, 2016, CES.](https://www.montevideo.com.uy/Tiempo-libre/Consejo-de-Educacion-Secundaria-reconocio-a-100-estudiantes-que-destacaron-en-2016-uc329720)
+ 
