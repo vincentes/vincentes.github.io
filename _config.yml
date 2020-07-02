@@ -21,7 +21,7 @@ future                   : true
 read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
 talkmap_link             : false #change to true to add link to talkmap on talks page
 comments:
-  provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
+  provider               : "facebook" # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
   disqus:
     shortname            :
   discourse:
@@ -73,16 +73,15 @@ social:
 
 # Analytics
 analytics:
-  provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
+  provider               :  "custom" # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          :
-
+    tracking_id          : "UA-171498095-1"
 
 # Site Author
 author:
   name             : "Vicente Bermúdez"
   avatar           : "profile.png"
-  bio              : "I have been studying engineering since I was eleven years old. Assembling and dissasembling systems, and whatever. I learn and put into practice what I learn."
+  bio              : "I have been studying engineering since I was eleven years old. Assembling and dissasembling systems and whatnot. I learn and I place things into practice."
   location         : "Uruguay"
   employer         :
   pubmed           :
